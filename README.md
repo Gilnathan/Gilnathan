@@ -1,6 +1,6 @@
 # Olá, eu sou Gilnathan! 👋
 
-Desenvolvedor Full-stack apaixonado por transformar ideias em código robusto e escalável. Sou movido(a) pela busca contínua por aprendizado e otimização de sistemas.
+Desenvolvedor Full-stack apaixonado por transformar ideias em código robusto e escalável. Sou movido pela busca contínua por aprendizado e otimização de sistemas.
 
 ---
 

@@ -18,7 +18,7 @@ Aqui estão as principais tecnologias com as quais eu trabalho:
 
 ### ✨ O que estou fazendo agora
 
-- Atualmente focado(a) em projetos que utilizam **.NET** e **C#** para desenvolvimento de APIs.
+- Atualmente focado em projetos que utilizam **.NET** e **C#** para desenvolvimento de APIs.
 - Aprimorando minhas consultas e otimizações em **PostgreSQL** e **SQL**.
 - Explorando as novidades do ecossistema **JavaScript** moderno.
 - 🌱 Sempre buscando aprender sobre **[Mencione algo que você está aprendendo, ex: Arquitetura de Microsserviços, Cloud Computing]**.

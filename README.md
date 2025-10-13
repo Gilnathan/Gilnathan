@@ -25,9 +25,7 @@ Aqui estão as principais tecnologias com as quais eu trabalho:
 
 ### 📊 Estatísticas do GitHub
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gilnathan&show_icons=true&theme=vue&hide_border=true" alt="Estatísticas do GitHub" />
-</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilnathan&layout=compact&theme=vue&hide_border=true" alt="Linguagens Mais Usadas" />
 </a>

@@ -1,72 +1,61 @@
 # Olá Mundo! Eu sou Gilnathan 👋
 
-Desenvolvedor **Full-stack** | Engenheiro de Software
+### 🇧🇷 Desenvolvedor Full-stack Sênior | Engenheiro de Software
 
-Sou um entusiasta da tecnologia, especializado em construir o **Back-end de sistemas escaláveis** com a robustez do ecossistema **.NET e C#**. Minha missão é traduzir desafios de negócio em soluções de código limpas, performáticas e manuteníveis.
+Sou um entusiasta da tecnologia com **4+ anos de experiência** em transformar requisitos de negócio em **sistemas escaláveis e de alta disponibilidade**.
+
+Minha especialidade é o **Back-end robusto**, construído com a solidez do **.NET e C#**. Sou movido por princípios de **código limpo, testes automatizados e arquiteturas resilientes**.
 
 ---
 
-### 💻 Minha Caixa de Ferramentas Principal
+### 💻 Minha Stack de Construção
 
-Minha stack é desenhada para entregar soluções de ponta a ponta, com foco especial na qualidade do Back-end.
+Desenho soluções de ponta a ponta, com foco em qualidade e performance.
 
-#### ⚙️ Back-end & Linguagens
+#### ⚙️ Back-end & Arquitetura
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/xUnit-8d0000?style=for-the-badge&logo=dotnet&logoColor=white" alt="xUnit/Testes Unitários">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
-#### 💾 Banco de Dados & ORMs
+#### 💾 Dados & Mensageria
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis (Caching)">
 </p>
 
-#### 🌐 Front-end & Ferramentas
+#### 🌐 Front-end & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes (Se você usar)">
 </p>
 
 ---
 
-### 💡 Atualmente Construindo
+### 💡 Focos de Desenvolvimento Atuais
 
-Estou sempre focado em elevar o padrão de qualidade dos projetos:
-
-* **API Design:** Desenvolvendo APIs RESTful e/ou gRPC de alto desempenho com **.NET 8** (ou a versão mais recente).
-* **Performance:** Aprofundando em otimizações de **PostgreSQL** e utilizando ferramentas de *caching* para reduzir a latência.
-* **Qualidade de Código:** Implementando padrões de arquitetura como **Clean Architecture** e **DDD (Domain-Driven Design)** para garantir a escalabilidade.
-
----
-
-### 📊 Meu Desempenho no GitHub
-
-Confira minha atividade e as tecnologias que mais tenho explorado:
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 width=490 src="https://github-readme-stats.vercel.app/api?username=Gilnathan&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais do GitHub">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 width=490 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilnathan&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas">
-  </a>
-  </p>
+| Prioridade | Descrição |
+| :--- | :--- |
+| **🚀 Escalabilidade** | Implementação de microsserviços e mensageria (RabbitMQ/Kafka) em ambientes **Cloud-native**. |
+| **🛡️ Qualidade** | Aplicação rigorosa de **Clean Architecture, DDD** e cobertura de **Testes Unitários e de Integração**. |
+| **⚡ Performance** | Otimização de consultas, criação de índices e uso de *caching* com Redis para tempos de resposta sub-milissegundo. |
 
 ---
 
-### 📞 Vamos Conectar!
 
-Estou sempre aberto a novas conexões e discutir desafios de tecnologia.
 
-| Contato | Detalhes |
-| :---: | :--- |
-| **LinkedIn** | [linkedin.com/in/gilnathan-reis-50ba67238](https://www.linkedin.com/in/gilnathan-reis-50ba67238) |
-| **Email** | `gilthanreis@gmail.com` |
-| **Portfólio/Website** | Em Desenvolvimento |
+### 📞 Conecte-se comigo!
+
+Vamos trocar ideias e discutir tecnologia. Estou aberto a propostas e colaborações.
+
+* **LinkedIn:** [linkedin.com/in/gilnathan-reis-50ba67238](https://www.linkedin.com/in/gilnathan-reis-50ba67238)
+* **Email Comercial:** `gilthanreis@gmail.com`
+* **Portfólio/Website:** *Em Construção (Link soon)* 🚧
+

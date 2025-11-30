@@ -2,9 +2,7 @@
 
 ### 🇧🇷 Desenvolvedor Full-stack Sênior | Engenheiro de Software
 
-Sou um entusiasta da tecnologia com **4+ anos de experiência** em transformar requisitos de negócio em **sistemas escaláveis e de alta disponibilidade**.
-
-Minha especialidade é o **Back-end robusto**, construído com a solidez do **.NET e C#**. Sou movido por princípios de **código limpo, testes automatizados e arquiteturas resilientes**.
+Desenvolvedor Full-stack apaixonado por transformar ideias em código robusto e escalável. Sou movido pela busca contínua por aprendizado e otimização de sistemas.
 
 ---
 
